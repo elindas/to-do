@@ -28,8 +28,4 @@ form.form-example, .list {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
-ul li:hover {
-  background-color: grey;
-}
 /*# sourceMappingURL=index.css.map */
